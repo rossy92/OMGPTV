@@ -1,0 +1,12 @@
+{
+  "m3u": "https://pastebin.com/raw/YeYjVni0",
+  "proxy": "https://rossy92-uhm.hf.space",
+  "proxy_pwd": "4Str3m10!",
+  "update_interval": "12:00",
+  "resolver_script": "https://raw.githubusercontent.com/ciccioxm3/omg/refs/heads/main/ResolverVV.py",
+  "resolver_enabled": true,
+  "python_script_url": "https://raw.githubusercontent.com/ciccioxm3/omg/refs/heads/main/ScriptVV.py",
+  "epg_enabled": false,
+  "force_proxy": false,
+  "resolver_update_interval": ""
+}
